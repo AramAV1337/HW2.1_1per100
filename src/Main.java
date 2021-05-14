@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        int accAmount = 100; // Сумма на счету
+        int accAmount = 100; // Сумма на счете
         int enominator = 100; // Делитель для рассчета бонуса
         int bonus;
         int less = 200; // С чем сравниваем
